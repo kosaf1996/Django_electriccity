@@ -30,4 +30,4 @@
 [전기차 충전소 로드맵.pptx](https://github.com/kosaf1996/electriccity_django/files/7759875/default.pptx)
 
 [정리 Notion]
-https://understood-viola-e57.notion.site/1737b9ac698e41d2855222bc59481c79
+https://gyoungmin.notion.site/1737b9ac698e41d2855222bc59481c79
